@@ -13,13 +13,13 @@ Mostly designed to analyse your own post card usage but also parses all other in
 
 Login into your PostFinance and navigate to the transaction viewer:
 
-![PostFinance transaction form](https://raw.github.com/tpreusse/postfinance-analytics/master/guide/transaction_form.png)
+![PostFinance transaction form](https://raw.github.com/tpreusse/postfinance-analytics/master/guide/transaction_form.jpg)
 
 ### Step 2
 
 You should get a page like this:
 
-![PostFinance transaction page](https://raw.github.com/tpreusse/postfinance-analytics/master/guide/transaction_page.png)
+![PostFinance transaction page](https://raw.github.com/tpreusse/postfinance-analytics/master/guide/transaction_page.jpg)
 
 Run following JS be pasting it the url bar:
 
