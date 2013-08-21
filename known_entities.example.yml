@@ -1,0 +1,6 @@
+# configure to create aggregates for known entities
+# regex matched against avisierungstext
+gutschrift:
+  employer: !ruby/regexp '/local.ch/'
+lastschrift:
+  rent: !ruby/regexp '/BERNER KANTONALBANK AG/'
