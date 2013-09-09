@@ -30,7 +30,7 @@ namespace :pc do
         :saldo
     ]
 
-    data_tree.css('table tbody tr').each do |tr|
+    data_tree.css('tbody tr').each do |tr|
         row = {}
 
         tr.css('td').each_with_index do |td, index|
